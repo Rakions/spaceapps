@@ -53,3 +53,6 @@ export default class Asteroide {
     this.Direccion = Direccion;
   }
 }
+
+
+/* yQn0L1akGvnnJ1pDfFsF5qNXtJLxUOR3AOVWUkeo */
